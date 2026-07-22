@@ -1,4 +1,4 @@
-#Las estaciones del año match case (Juan Diego Almanza Veloz y Amy Guadalupe Ortiz Marmolejo)
+#Las estaciones del año match case (Juan Diego Almanza Veloz)
 mes = int(input("Ingrese el número del mes (1-12): "))
 
 match mes:
